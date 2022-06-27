@@ -1,0 +1,4 @@
+conda activate gdxsensor  
+cd C:\Users\2288980g\Downloads\godirect-examples-main\python
+python gdx_getting_started_usb_yao.py
+2
